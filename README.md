@@ -6,7 +6,7 @@
 <br>
 
 - 🚀 Sempre em busca de aprimorar minhas habilidades de desenvolvimento.
-- 🌐 Desenvolvendo projetos web para explorar e aplicar meus conhecimentos.
+- 🌐 Desenvolvendo projetos para explorar e aplicar meus conhecimentos.
 
 
 
