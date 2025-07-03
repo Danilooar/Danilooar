@@ -1,23 +1,52 @@
+# 👋 Olá! Eu sou Danilo Araújo
 
-👋 Olá, eu sou Danilo Araujo!
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**, com 22 anos e 2 anos de jornada prática desenvolvendo soluções com foco em lógica, dados e back-end.
 
-🎓 Estou atualmente com 22 anos e cursando Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por resolver problemas e aprender novas tecnologias. Minhas principais ferramentas incluem:
-<br>
-<br>
+Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia para resolver problemas reais. Acredito que código bem escrito começa com clareza de propósito — e é isso que busco em cada linha que desenvolvo.
 
-- 🚀 Sempre em busca de aprimorar minhas habilidades de desenvolvimento.
-- 🌐 Desenvolvendo projetos para explorar e aplicar meus conhecimentos.
+---
+
+## 🚀 Minhas Tecnologias
+
+<div align="center">
+
+### 🧠 Lógica & Back-end
+<img src="https://skillicons.dev/icons?i=python,django,flask" alt="Python, Django, Flask" />
+
+### 📊 Dados e Business Intelligence
+<img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
+
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
+
+### 🌐 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+
+### ⚙️ Ferramentas & Versionamento
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, VSCode, Visual Studio" />
+
+</div>
+
+---
+
+## 📌 O que você vai encontrar por aqui
+
+🧪 Repositórios com **projetos práticos, desafios de lógica, back-end com Python, consumo de banco de dados** e experimentações com Flask e Django.
+
+🧠 Códigos focados em **clareza, boas práticas, aprendizado real e evolução constante**.
+
+📊 Início de projetos com foco em dados e **Power BI** para visualizações e insights.
+
+---
 
 
+## 📫 Vamos nos conectar?
 
->
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)  
+- 📧 devdanilobr@gmail.com  
+- 🌍 Aracaju-SE, Brasil
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilooar)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilooar&show_icons=true&theme=radical)
-
-
-
-🚀 "O aprendizado é contínuo e o código é a expressão desse aprendizado." 🚀
 
 
