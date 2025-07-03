@@ -10,20 +10,20 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 
 <div align="center">
 
-### 🧠 Back-end & Lógica
-<img src="https://skillicons.dev/icons?i=python,django,flask,cs" alt="Python, Django, Flask, C#" />
+### 🧠 Back-end & Lógica  
+<img src="https://skillicons.dev/icons?i=python,django,flask,cs" alt="Python, Django, Flask, C#" height="40" />
 
-### 🗄️ Banco de Dados
-<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="Power BI" width="40" />
+### 🗄️ Banco de Dados  
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" height="40" />
 
-### 📊 Dados e Business Intelligence
-<img src="./assets/powerbi.svg" alt="Power BI" width="40" />
+### 📊 Dados e Business Intelligence  
+<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="Power BI" height="40" />
 
-### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, Bootstrap, JavaScript" />
+### 🌐 Front-end  
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, Bootstrap, JavaScript" height="40" />
 
-### ⚙️ Ferramentas, Deploy & Versionamento
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,render,vercel,netlify" alt="Git, GitHub, VSCode, Visual Studio, Render, Vercel, Netlify" />
+### ⚙️ Ferramentas, Deploy & Versionamento  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,render,vercel,netlify" alt="Git, GitHub, VSCode, Visual Studio, Render, Vercel, Netlify" height="40" />
 
 </div>
 
