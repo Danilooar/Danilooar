@@ -1,4 +1,3 @@
-
 # 👋 Olá! Eu sou Danilo Araújo
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**, com 22 anos e 2 anos de jornada prática desenvolvendo soluções com foco em lógica, dados e back-end.
@@ -11,7 +10,20 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,html,css,js,git,github,vscode,visualstudio,powerbi" alt="Stacks" />
+### 🧠 Back-end & Lógica
+<img src="https://skillicons.dev/icons?i=python,django,flask,cs" alt="Python, Django, Flask, C#" />
+
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
+
+### 📊 Dados e Business Intelligence
+<img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
+
+### 🌐 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+
+### ⚙️ Ferramentas & Versionamento
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, VSCode, Visual Studio" />
 
 </div>
 
@@ -19,23 +31,15 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 
 ## 📌 O que você vai encontrar por aqui
 
-🧪 Repositórios com **projetos práticos, desafios de lógica, back-end com Python, consumo de banco de dados** e experimentações com Flask e Django.
+🧪 Repositórios com **projetos práticos, desafios de lógica, back-end com Python e C#, consumo de banco de dados** e aplicações com Flask e Django.
 
-🧠 Códigos focados em **clareza, boas práticas, aprendizado real e evolução constante**.
+📊 Projetos com foco em **dados e visualizações no Power BI**, com insights aplicados.
 
-📊 Início de projetos com foco em dados e **Power BI** para visualizações e insights.
-
----
-
-## 💭 Sobre mim
-
-> “O aprendizado é contínuo, e o código é a expressão desse processo.”  
-
-Acredito que a **constância supera o talento bruto**. Aprendo errando, pratico com intenção e evoluo compartilhando. Estou construindo minha base técnica com profundidade e visão a longo prazo — com foco especial em back-end e dados.
+🧠 Códigos escritos com **clareza, boas práticas e aprendizado contínuo**.
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/devdanilo)  
 - 📧 devdanilobr@gmail.com  
