@@ -20,10 +20,10 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 <img src="https://skillicons.dev/icons?i=tableau" alt="(BI)" />
 
 ### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS,bootstrap, JavaScript" />
 
 ### ⚙️ Ferramentas, Deploy & Versionamento
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,render,vercel" alt="Git, GitHub, VSCode, Visual Studio, Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,render,vercel" alt="Git, GitHub, VSCode,netify Visual Studio, Vercel" />
 
 </div>
 
