@@ -17,7 +17,7 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
 
 ### 📊 Dados e Business Intelligence
-<img src="https://skillicons.dev/icons?i=tableau" alt="Tableau (BI)" />
+<img src="./assets/powerbi.svg" alt="Power BI" width="40" />
 
 ### 🌐 Front-end
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, Bootstrap, JavaScript" />
