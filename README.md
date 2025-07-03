@@ -14,7 +14,7 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 <img src="https://skillicons.dev/icons?i=python,django,flask,cs" alt="Python, Django, Flask, C#" />
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
+<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="Power BI" width="40" />
 
 ### 📊 Dados e Business Intelligence
 <img src="./assets/powerbi.svg" alt="Power BI" width="40" />
