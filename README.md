@@ -17,13 +17,13 @@ Sou movido pela curiosidade, disciplina e pelo desejo de aplicar a tecnologia pa
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
 
 ### 📊 Dados e Business Intelligence
-<img src="https://skillicons.dev/icons?i=tableau" alt="Tableau (BI)" />
+<img src="https://skillicons.dev/icons?i=tableau" alt="(BI)" />
 
 ### 🌐 Front-end
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 
 ### ⚙️ Ferramentas, Deploy & Versionamento
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,render,vercel" alt="Git, GitHub, VSCode, Visual Studio, Render, Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,render,vercel" alt="Git, GitHub, VSCode, Visual Studio, Vercel" />
 
 </div>
 
